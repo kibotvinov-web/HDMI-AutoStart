@@ -1,18 +1,3 @@
-MIME-Version: 1.0
-Content-Type: multipart/related; boundary="----=_NextPart_01DD6CBA.898A4500"
-
-Этот документ представляет собой веб-страницу в одном файле, или файл веб-архива. Если вы видите это сообщение, ваш браузер или редактор не поддерживает файлы веб-архивов. Скачайте браузер, поддерживающий веб-архивы.
-
-------=_NextPart_01DD6CBA.898A4500
-Content-Location: file:///C:/F1731ED6/file3590.htm
-Content-Transfer-Encoding: quoted-printable
-Content-Type: text/html; charset="windows-1251"
-
-<html xmlns:v=3D"urn:schemas-microsoft-com:vml"
-xmlns:o=3D"urn:schemas-microsoft-com:office:office"
-xmlns:w=3D"urn:schemas-microsoft-com:office:word"
-xmlns:m=3D"http://schemas.microsoft.com/office/2004/12/omml"
-xmlns=3D"http://www.w3.org/TR/REC-html40">
 
 <head>
 <meta http-equiv=3DContent-Type content=3D"text/html; charset=3Dwindows-125=
